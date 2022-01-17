@@ -1,0 +1,38 @@
+[
+    {
+        "Image": "React-Cover.jpg",
+        "Heading": "Reactjs",
+        "Description": "2 years of experience in designing dynamic content & React components including class functional compound & styled components  ",
+        "Link": ""
+    },
+    {
+        "Image": "nodejs4.jpg",
+        "Heading": "Nodejs",
+        "Description": "Proficient in writing advanced backend for nodejs based social apps web games & Apis",
+        "Link": ""
+    },
+    {
+        "Image": "ism_react_native.png",
+        "Heading": "React Native",
+        "Description": "Experience in creating hybrid mobile apps for Android & iOS",
+        "Link": ""
+    },
+    {
+        "Image": "firebase2.png",
+        "Heading": "Firebase",
+        "Description": "Like to work in Firebase backend services",
+        "Link": ""
+    },
+    {
+        "Image":"mongo.png",
+        "Heading": "MongoDB",
+        "Description": "MongoDB is a NoSql Json based database good for Deep Quuerying",
+        "Link": ""
+    },
+    {
+        "Image": "rails.png",
+        "Heading": "Rails Api",
+        "Description": "Apis in beautiful & abstract rails syntax",
+        "Link": ""
+    }
+]

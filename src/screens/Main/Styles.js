@@ -23,8 +23,8 @@ export const styles = ({
 	buttonWrap:{
 		position: 'absolute',
 		top:'48%',
-		left:'32%',
-		width:'100%',
+		left:'0%',
+		width:'0%',
 		height:'5%',	
 		display:'flex',
 		justifyContent:'center',
