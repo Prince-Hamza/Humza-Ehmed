@@ -1,0 +1,14 @@
+
+.talkButton {
+  height:  50px;
+  width: 15%
+}
+
+@media screen and (max-width: 480px) {
+
+  .talkButton {
+    height:  50px;
+    width: 35%
+  }
+
+}

@@ -25,17 +25,14 @@ export const styles = ({
 		top:'48%',
 		left:'0%',
 		width:'0%',
-		height:'5%',	
+		height:'5%',
 		display:'flex',
 		justifyContent:'center',
 		alignItems:'center',
 		width:'100%',
-		border:'dashed'
 	},
 	Button:{
 		position: 'absolute',
-		// height:'5%',
-		// width:'15%',
 		borderRadius: '50px',
 		boxShadow: '0px 0px 8px 1px lightgray',
 		backgroundColor: 'white',
@@ -44,9 +41,9 @@ export const styles = ({
 		display: 'flex',
 		justifyContent: 'center',
 		alignItems: 'center'
-	} , 
+	} ,
 	headingContainer:{
-      position:'absolute',
+    position:'absolute',
 	  top:'18%',
 	  left:'0%',
 	  width:'100%',
@@ -79,8 +76,8 @@ export const styles = ({
 	   left:'10%',
 	   width:'90%',
 	   height:'60%',
-	   
-	}, 
+
+	},
 	materialItem :{
 		height:'500px',
         backgroundColor: 'white'
@@ -91,7 +88,7 @@ export const styles = ({
 		top:'400%',
 		height:'20%'
 	},
-	
+
 	cardImage:{
 		height:'50%',
 		width:'100%',

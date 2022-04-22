@@ -3,25 +3,28 @@
         "Image": "React-Cover.jpg",
         "Heading": "Reactjs",
         "Description": "2 years of experience in designing dynamic content & React components including class functional compound & styled components  ",
-        "Link": ""
+        "Link": "https://storybook3.herokuapp.com",
+        "SecondLink": "https://https://github.com/Prince-Hamza/storybook"
     },
     {
         "Image": "nodejs4.jpg",
         "Heading": "Nodejs",
         "Description": "Proficient in writing advanced backend for nodejs based social apps web games & Apis",
-        "Link": ""
+        "Link": "https://storybook3.herokuapp.com",
+        "SecondLink": "https://https://github.com/Prince-Hamza/storybook"
     },
     {
         "Image": "ism_react_native.png",
         "Heading": "React Native",
         "Description": "Experience in creating hybrid mobile apps for Android & iOS",
-        "Link": ""
+        "Link": "https://expo.io/@humza/nice"
     },
     {
-        "Image": "firebase2.png",
+        "Image": "firebase.jpg",
         "Heading": "Firebase",
         "Description": "Like to work in Firebase backend services",
-        "Link": ""
+        "Link": "https://storybook3.herokuapp.com",
+        "SecondLink" : "https://github.com/Prince-Hamza/storybook"
     },
     {
         "Image":"mongo.png",
@@ -30,9 +33,9 @@
         "Link": ""
     },
     {
-        "Image": "rails.png",
-        "Heading": "Rails Api",
-        "Description": "Apis in beautiful & abstract rails syntax",
-        "Link": ""
+        "Image": "github.jpeg",
+        "Heading": "Github",
+        "Description": "Visit my github to see open source projects & their source code",
+        "Link": "https://github.com/Prince-Hamza"
     }
 ]
